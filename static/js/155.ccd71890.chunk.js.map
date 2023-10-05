@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/EmployeeMaster/demo.js"],"names":["demo"],"mappings":"kHAAA,wBAceA,UAXF,WACX,OACE","file":"static/js/155.ccd71890.chunk.js","sourcesContent":["import React from 'react'\r\n\r\n\r\nconst demo = () => {\r\n  return (\r\n    <div>\r\n      \r\n\r\n\r\n\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default demo\r\n"],"sourceRoot":""}
